@@ -1,2 +1,2 @@
-# cousera-test2
+# rotating-nav
 this is a test repository
